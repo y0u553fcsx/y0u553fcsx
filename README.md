@@ -104,27 +104,6 @@ A healthcare management system designed to simplify patient records, appointment
 
 ---
 
-# 🐍 Contribution Snake
-
-> Requires GitHub Action setup
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/you553fcx/you553fcx/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🎵 Currently Listening To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rtqd5g57nm2lm6eh5ui4qpcghe&cover_image=true&theme=default"/>
-
-</div>
-
----
 
 # 💡 Developer Quote
 
@@ -140,7 +119,6 @@ A healthcare management system designed to simplify patient records, appointment
 
 * Artificial Intelligence
 * Data Structures & Algorithms
-* Software Engineering
 * System Design
 * Building Real-World Projects
 * Continuous Learning
