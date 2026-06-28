@@ -126,7 +126,10 @@ A healthcare management system designed to simplify patient records, appointment
 ---
 
 # 🚀 Design Skills 
-![ArenaX Banner](ArenaX-Profile.png)
+<p align="center">
+  <img src="ArenaX-Profile.png" alt="ArenaX" width="49%" />
+  <img src="PennyPath%20Card.png" alt="PennyPath" width="49%" />
+</p>
 
 ---
 
