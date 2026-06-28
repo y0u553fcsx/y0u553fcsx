@@ -128,6 +128,8 @@ A healthcare management system designed to simplify patient records, appointment
 # 🚀 Design Skills 
 ![ArenaX Banner](ArenaX%20Profile.png)
 
+---
+
 <div align="center">
 
 ### Thanks for visiting ⚡
