@@ -126,7 +126,7 @@ A healthcare management system designed to simplify patient records, appointment
 ---
 
 # 🚀 Design Skills 
-![ArenaX Banner](ArenaX%20Profile.png)
+![ArenaX Banner](ArenaX-Profile.png)
 
 ---
 
